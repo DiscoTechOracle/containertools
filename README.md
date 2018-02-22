@@ -15,7 +15,7 @@ Today we will explore the world of container tools, and focus namely on Smith, w
 ### Prerequisites ###
 
 + Laptop. Either unix-based or a VM running Linux. 
-+ Dockerhub-account (create one here: [cloud.docker.com](cloud.docker.com)) and Docker installed
++ Dockerhub-account (create one here: [cloud.docker.com](http://cloud.docker.com/)) and Docker installed
 + Editor (we suggest vim, nano or similar)
 + Git installed
 
